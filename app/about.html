@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <title>Daniel Gastón</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="styles/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="styles/font-awesome.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div id="dg_navigation" class="navbar navbar-default navbar-fixed-top" role="navigation"></div>
+    <div id="dg_header"></div>
+
+    <div id="dg_content">
+      <div id="dg_contentplatforms"></div>
+      <div id="dg_contentdescription"></div>
+      <div id="dg_contentgallery"></div>
+      <div id="dg_contentextra"></div> 
+    </div>
+
+    <div id="social"></div>
+    <div id="dg_footer"></div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+    <script src="scripts/base.js"></script> 
+    <script src="scripts/about.js"></script> 
+    <script>
+      $(document).ready(function() {
+        DG.Base.initializeAbout();
+      });
+    </script>
+  </body>
+</html>
