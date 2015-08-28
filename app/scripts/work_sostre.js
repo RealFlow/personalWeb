@@ -84,7 +84,8 @@ DG.Work.SOSTRE = {
 
 		var html =  '<div class="row centered mb">'+
 					'<div class="col-lg-10 col-lg-offset-1">'+
-					'<h4>GALLERY</h4>'+
+					'<img class="centered platform" width="60px" src="images/portfolio_misc/gallery.png">'+
+					'<h4 class="text-highlighted">GALLERY</h4>'+
 					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_sostre_1.png">'+
 					'<br>'+
 					''+
@@ -170,10 +171,18 @@ DG.Work.SOSTRE = {
 		
 		$('#dg_contentextra').empty();
 
-		var html = 	'<div class="row centered">'+
+		var html = 	'<div class="row centered mb">'+
 					'<div class="col-lg-6 col-lg-offset-3">'+
-					'<h4>SLIDES</h4>'+
+					'<img class="centered platform" width="60px" src="images/portfolio_misc/slideshare.png">'+
+					'<h4 class="text-highlighted">SLIDES</h4>'+
 					'<iframe src="//www.slideshare.net/slideshow/embed_code/key/AShj8hsTSp61Y9" width="800" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen Without related content> </iframe>'+
+					'</div>'+
+					'</div>'+
+					'<div class="row centered">'+
+					'<div class="col-lg-6 col-lg-offset-3">'+
+					'<img class="centered platform" width="60px" src="images/portfolio_misc/github.png">'+
+					'<h4 class="text-highlighted">CODE REPOSITORY</h4>'+
+					'<a target="_blank" href="https://github.com/RealFlow/godzi-webgl/tree/buildings">github.com/RealFlow/godzi-webgl/tree/buildings</a>'+
 					'</div>'+
 					'</div>';
 
