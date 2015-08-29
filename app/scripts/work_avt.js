@@ -16,7 +16,7 @@ DG.Work.AVT = {
 					'<div class="row">'+
 					'<div class="col-lg-6 col-lg-offset-3">'+
 					'<h1>TOURIST APP</h1>'+
-					'<h4>(TO BE COMPLETED)</h4>'+
+					'<h4>Universal mobile application</h4>'+
 					'<h4>ROLE: LEAD DEVELOPER</h4>'+
 					'</div>'+
 					'</div>'+
@@ -31,8 +31,8 @@ DG.Work.AVT = {
 		this.workBase.initContentContainer();
 
 		this.initContentPlatforms()
-		// this.initContentDescription();
-		// this.initContentGallery();
+		this.initContentDescription();
+		this.initContentGallery();
 		// this.initContentExtra();
 
 	},
@@ -53,7 +53,7 @@ DG.Work.AVT = {
 		
 		$('#dg_contentdescription').empty();
 
-		var html = 	'<div class="row centered mb">'+
+		var html = 	'<div class="row centered">'+
 					'<div class="col-lg-8 col-lg-offset-2">'+
 					'<h3 class="text-highlighted">ABOUT THE PROJECT</h3>'+
 					'<p align="justify">'+
@@ -73,6 +73,16 @@ DG.Work.AVT = {
 					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> Building Solar Incidence Web Service:</span> Calculates the solar incidence in the geometry of a given building, taking into account the possible overlapping of both the terrain and surrounding buildings, for a given simulation period and ephemerides.'+
 					'</p>'+
 					'</div>'+
+					'</div>'+
+					'<div class="row centered mb">'+
+					'<div class="col-lg-6 col-lg-offset-3">'+
+					'<div class="col-lg-6  gallery">'+
+					'<a href="https://play.google.com/store/apps/details?id=com.comunitatvalenciana.geoportal&hl=en" target="_blank"><img class="img-responsive center-block" src="images/portfolio_misc/store_android.png" style="max-width:150px"></a>'+
+					'</div>'+
+					'<div class="col-lg-6 gallery">'+
+					'<a href="https://itunes.apple.com/en/app/geoportal/id437511428?mt=8" target="_blank"><img class="img-responsive center-block" src="images/portfolio_misc/store_ios.png" style="max-width:150px"></a>'+
+					'</div>'+
+					'</div>'+
 					'</div>';
 
   		$('#dg_contentdescription').append(html);
@@ -85,78 +95,91 @@ DG.Work.AVT = {
 
 		var html =  '<div class="row centered mb">'+
 					'<div class="col-lg-10 col-lg-offset-1">'+
-					'<h4>GALLERY</h4>'+
-					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_sostre_1.png">'+
+					'<img class="centered platform" width="60px" src="images/portfolio_misc/gallery.png">'+
+					'<h4 class="text-highlighted">GALLERY</h4>'+
+					'<img class="img-responsive" src="images/portfolio_content/work_tourism_5.png">'+
 					'<br>'+
 					''+
 					'<div id="gallery-title-1" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Web Application</h4>'+
+					'<h4 style="color: white">Android native application (Smartphone)</h4>'+
 					'</div>'+
 					'</div>'+
 					'<div id="gallery-title-2" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Building Visibility Processing</h4>'+
+					'<h4 style="color: white">Android native application (Tablet)</h4>'+
 					'</div>'+
 					'</div>'+
 					'<div id="gallery-title-3" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Solar Incidence Processing</h4>'+
+					'<h4 style="color: white">iOS native application (iPhone)</h4>'+
 					'</div>'+
 					'</div>'+
 					'<div id="gallery-title-4" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Cadaster Geo-Data</h4>'+
+					'<h4 style="color: white">iOS native application (iPad)</h4>'+
 					'</div>'+
 					'</div>'+
 					''+
 					'<ul id="light-gallery" class="gallery centered">'+
-					'<li data-src="images/portfolio_content/work_sostre_1.png"'+
+					'<li data-src="images/portfolio_content/work_tourism_1.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_1_thumb.png" />'+
+					'<img src="images/portfolio_content/work_tourism_1_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_2.png"'+
+					'<li data-src="images/portfolio_content/work_tourism_2.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_2_thumb.png" />'+
+					'<img src="images/portfolio_content/work_tourism_2_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_3.png"'+
+					'<li data-src="images/portfolio_content/work_tourism_3.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_3_thumb.png" />'+
+					'<img src="images/portfolio_content/work_tourism_3_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_4.png"'+
-					'data-sub-html="#gallery-title-1">'+
-					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_4_thumb.png" />'+
-					'</a>'+
-					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_5.jpg"'+
+					'<li data-src="images/portfolio_content/work_tourism_4.png"'+
 					'data-sub-html="#gallery-title-2">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_5_thumb.jpg" />'+
+					'<img src="images/portfolio_content/work_tourism_4_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_6.png"'+
+					'<li data-src="images/portfolio_content/work_tourism_5.png"'+
 					'data-sub-html="#gallery-title-2">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_6_thumb.png" />'+
+					'<img src="images/portfolio_content/work_tourism_5_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_7.png"'+
+					'<li data-src="images/portfolio_content/work_tourism_6.png"'+
 					'data-sub-html="#gallery-title-3">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_7_thumb.png" />'+
+					'<img src="images/portfolio_content/work_tourism_6_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_8.png"'+
+					'<li data-src="images/portfolio_content/work_tourism_7.png"'+
+					'data-sub-html="#gallery-title-3">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_tourism_7_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_tourism_8.png"'+
+					'data-sub-html="#gallery-title-3">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_tourism_8_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_tourism_9.png"'+
 					'data-sub-html="#gallery-title-4">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_8_thumb.png" />'+
+					'<img src="images/portfolio_content/work_tourism_9_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_tourism_10.png"'+
+					'data-sub-html="#gallery-title-4">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_tourism_10_thumb.png" />'+
 					'</a>'+
 					'</li>'+
 					'</ul>'+
