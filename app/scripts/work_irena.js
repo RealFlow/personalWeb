@@ -32,7 +32,7 @@ DG.Work.IRENA = {
 
 		this.initContentPlatforms()
 		// this.initContentDescription();
-		// this.initContentGallery();
+		this.initContentGallery();
 		// this.initContentExtra();
 
 	},
@@ -88,77 +88,73 @@ DG.Work.IRENA = {
 		var html =  '<div class="row centered mb">'+
 					'<div class="col-lg-10 col-lg-offset-1">'+
 					'<h4>GALLERY</h4>'+
-					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_sostre_1.png">'+
+					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_irena_1.png">'+
 					'<br>'+
 					''+
 					'<div id="gallery-title-1" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Web Application</h4>'+
-					'</div>'+
-					'</div>'+
-					'<div id="gallery-title-2" style="display:none">'+
-					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Building Visibility Processing</h4>'+
-					'</div>'+
-					'</div>'+
-					'<div id="gallery-title-3" style="display:none">'+
-					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Solar Incidence Processing</h4>'+
-					'</div>'+
-					'</div>'+
-					'<div id="gallery-title-4" style="display:none">'+
-					'<div class="custom-html">'+
-					'<h4 style="color: white">Cadaster Geo-Data</h4>'+
-					'</div>'+
+					'<h4 style="color: white">Mobile Application</h4>'+
 					'</div>'+
 					''+
 					'<ul id="light-gallery" class="gallery centered">'+
-					'<li data-src="images/portfolio_content/work_sostre_1.png"'+
+					'<li data-src="images/portfolio_content/work_irena_1.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_1_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_1_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_2.png"'+
+					'<li data-src="images/portfolio_content/work_irena_2.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_2_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_2_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_3.png"'+
+					'<li data-src="images/portfolio_content/work_irena_3.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_3_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_3_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_4.png"'+
+					'<li data-src="images/portfolio_content/work_irena_4.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_4_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_4_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_5.jpg"'+
-					'data-sub-html="#gallery-title-2">'+
+					'<li data-src="images/portfolio_content/work_irena_5.jpg"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_5_thumb.jpg" />'+
+					'<img src="images/portfolio_content/work_irena_5_thumb.jpeg" ﬁ/>'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_6.png"'+
-					'data-sub-html="#gallery-title-2">'+
+					'<li data-src="images/portfolio_content/work_irena_6.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_6_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_6_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_7.png"'+
-					'data-sub-html="#gallery-title-3">'+
+					'<li data-src="images/portfolio_content/work_irena_7.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_7_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_7_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_8.png"'+
-					'data-sub-html="#gallery-title-4">'+
+					'<li data-src="images/portfolio_content/work_irena_8.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_8_thumb.png" />'+
+					'<img src="images/portfolio_content/work_irena_8_thumb.jpeg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_irena_9.png"'+
+					'data-sub-html="#gallery-title-1">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_irena_9_thumb.jpeg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_irena_10.png"'+
+					'data-sub-html="#gallery-title-1">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_irena_10_thumb.jpeg" />'+
 					'</a>'+
 					'</li>'+
 					'</ul>'+
