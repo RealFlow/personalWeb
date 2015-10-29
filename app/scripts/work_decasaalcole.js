@@ -99,6 +99,11 @@ DG.Work.DECASAALCOLE = {
 					'<h4 style="color: white">Web Application</h4>'+
 					'</div>'+
 					'</div>'+
+					'<div id="gallery-title-2" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">Android & iOS Mobile Application</h4>'+
+					'</div>'+
+					'</div>'+
 					''+
 					'<ul id="light-gallery" class="gallery centered">'+
 					'<li data-src="images/portfolio_content/work_decasaalcole_1.jpg"'+
@@ -117,6 +122,36 @@ DG.Work.DECASAALCOLE = {
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
 					'<img src="images/portfolio_content/work_decasaalcole_3_thumb.jpg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_decasaalcole_4.png"'+
+					'data-sub-html="#gallery-title-2">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_decasaalcole_4_thumb.jpg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_decasaalcole_5.png"'+
+					'data-sub-html="#gallery-title-2">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_decasaalcole_5_thumb.jpg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_decasaalcole_6.png"'+
+					'data-sub-html="#gallery-title-2">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_decasaalcole_6_thumb.jpg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_decasaalcole_7.png"'+
+					'data-sub-html="#gallery-title-2">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_decasaalcole_7_thumb.jpg" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_decasaalcole_8.png"'+
+					'data-sub-html="#gallery-title-2">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_decasaalcole_8_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'</ul>'+
