@@ -32,7 +32,7 @@ DG.Work.GVSIGMINI = {
 
 		this.initContentPlatforms()
 		// this.initContentDescription();
-		// this.initContentGallery();
+		this.initContentGallery();
 		// this.initContentExtra();
 
 	},
@@ -85,77 +85,62 @@ DG.Work.GVSIGMINI = {
 		var html =  '<div class="row centered mb">'+
 					'<div class="col-lg-10 col-lg-offset-1">'+
 					'<h4>GALLERY</h4>'+
-					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_sostre_1.png">'+
+					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_gvsigmini_1.png">'+
 					'<br>'+
 					''+
 					'<div id="gallery-title-1" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Web Application</h4>'+
-					'</div>'+
-					'</div>'+
-					'<div id="gallery-title-2" style="display:none">'+
-					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Building Visibility Processing</h4>'+
-					'</div>'+
-					'</div>'+
-					'<div id="gallery-title-3" style="display:none">'+
-					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Solar Incidence Processing</h4>'+
-					'</div>'+
-					'</div>'+
-					'<div id="gallery-title-4" style="display:none">'+
-					'<div class="custom-html">'+
-					'<h4 style="color: white">Cadaster Geo-Data</h4>'+
+					'<h4 style="color: white">Android Application</h4>'+
 					'</div>'+
 					'</div>'+
 					''+
 					'<ul id="light-gallery" class="gallery centered">'+
-					'<li data-src="images/portfolio_content/work_sostre_1.png"'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_1.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_1_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_1_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_2.png"'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_2.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_2_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_2_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_3.png"'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_3.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_3_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_3_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_4.png"'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_4.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_4_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_4_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_5.jpg"'+
-					'data-sub-html="#gallery-title-2">'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_5.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_5_thumb.jpg" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_5_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_6.png"'+
-					'data-sub-html="#gallery-title-2">'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_6.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_6_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_6_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_7.png"'+
-					'data-sub-html="#gallery-title-3">'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_7.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_7_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_7_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_8.png"'+
-					'data-sub-html="#gallery-title-4">'+
+					'<li data-src="images/portfolio_content/work_gvsigmini_8.png"'+
+					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_8_thumb.png" />'+
+					'<img src="images/portfolio_content/work_gvsigmini_8_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'</ul>'+

@@ -93,68 +93,69 @@ DG.Work.IRENA = {
 					''+
 					'<div id="gallery-title-1" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Mobile Application</h4>'+
+					'<h4 style="color: white">Hybrid Mobile Application</h4>'+
+					'</div>'+
 					'</div>'+
 					''+
 					'<ul id="light-gallery" class="gallery centered">'+
 					'<li data-src="images/portfolio_content/work_irena_1.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_1_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_1_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_2.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_2_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_2_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_3.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_3_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_3_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_4.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_4_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_4_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_irena_5.jpg"'+
+					'<li data-src="images/portfolio_content/work_irena_5.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_5_thumb.jpeg" ﬁ/>'+
+					'<img src="images/portfolio_content/work_irena_5_thumb.jpg" ﬁ/>'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_6.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_6_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_6_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_7.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_7_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_7_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_8.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_8_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_8_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_9.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_9_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_9_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'<li data-src="images/portfolio_content/work_irena_10.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_irena_10_thumb.jpeg" />'+
+					'<img src="images/portfolio_content/work_irena_10_thumb.jpg" />'+
 					'</a>'+
 					'</li>'+
 					'</ul>'+
