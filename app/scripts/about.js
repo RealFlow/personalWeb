@@ -90,9 +90,9 @@ DG.About = {
 					'<div class="row centered mt mb">'+
 					'<div class="col-lg-8 col-lg-offset-2">'+
 					'<h2>Daniel Gastón</h2>'+
-					'<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>'+
-					'<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>'+
-					'<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>'+
+					'<p>I am a software engineer with a MSc. in GeoSpatial Technologies. I enjoy machine learning, parallel computing, web programming, physics and chemistry, and all things data science.<p>'
+					+
+					'<p>I work at Apple on the data stack/back-end of a variety of famous products, but my background is filled with several other interesting computational and scientific research endeavors that are just a bit less well-known. I also maintain a few hobby coding and research projects that I work on whenever I find some spare time and energy, such as an experimental neural network code and a parallel JavaScript library for math and stats.</p>'+
 					'</div>'+
 					'</div>'+
 					'</div>';
