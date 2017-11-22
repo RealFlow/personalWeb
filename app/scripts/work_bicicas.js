@@ -42,7 +42,7 @@ DG.Work.BICICAS = {
 		$('#dg_contentplatforms').empty();
 
 		var html = 	'<div class="row centered mt">'+
-					'<img class="centered platform" width="60px" src="images/portfolio_platform/work_android.png">'+
+					'<img class="centered platform" width="60px" src="images/portfolio_platform/work_android.png" title="Includes Android Development">'+
 					'</div>';
 
 		$('#dg_contentplatforms').append(html);

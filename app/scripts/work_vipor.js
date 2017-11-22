@@ -42,7 +42,8 @@ DG.Work.VIPOR = {
 		$('#dg_contentplatforms').empty();
 
 		var html = 	'<div class="row centered mt">'+
-					'<img class="centered platform" width="60px" src="images/portfolio_platform/work_web.png">'+
+					'<img class="centered platform" width="60px" src="images/portfolio_platform/work_ios.png" title="Includes iOS Development">'+
+					'<img class="centered platform" width="60px" src="images/portfolio_platform/work_web.png" title="Includes Backend Development">'+
 					'</div>';
 
 		$('#dg_contentplatforms').append(html);
