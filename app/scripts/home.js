@@ -93,46 +93,52 @@ DG.Home = {
 					'<div class="row centered mt mb">'+
 					'<h1>My Portfolio</h1>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=1"><img src="images/portfolio_icon/work_sostre.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=1"><img src="images/portfolio_icon/work_papyrus.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=2"><img src="images/portfolio_icon/work_ais_and_asterix.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=2"><img src="images/portfolio_icon/work_vipor.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=3"><img src="images/portfolio_icon/work_avt.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=3"><img src="images/portfolio_icon/work_sostre.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=4"><img src="images/portfolio_icon/work_baas.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=4"><img src="images/portfolio_icon/work_ais_and_asterix.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=5"><img src="images/portfolio_icon/work_bicicas.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=5"><img src="images/portfolio_icon/work_avt.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=6"><img src="images/portfolio_icon/work_decasaalcole.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=6"><img src="images/portfolio_icon/work_baas.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=7"><img src="images/portfolio_icon/work_gis3d.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=7"><img src="images/portfolio_icon/work_bicicas.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=8"><img src="images/portfolio_icon/work_gvsigmini.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=8"><img src="images/portfolio_icon/work_decasaalcole.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=9"><img src="images/portfolio_icon/work_irena.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=9"><img src="images/portfolio_icon/work_gis3d.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=10"><img src="images/portfolio_icon/work_moneyjourney.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=10"><img src="images/portfolio_icon/work_gvsigmini.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=11"><img src="images/portfolio_icon/work_seacare.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=11"><img src="images/portfolio_icon/work_irena.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=12"><img src="images/portfolio_icon/work_semosa.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=12"><img src="images/portfolio_icon/work_moneyjourney.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=13"><img src="images/portfolio_icon/work_variousgis.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=13"><img src="images/portfolio_icon/work_seacare.png" class="img-responsive"></a>'+
 					'</div>'+
 					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
-					'<a href="work.html?id=14"><img src="images/portfolio_icon/work_woo.png" class="img-responsive"></a>'+
+					'<a href="work.html?id=14"><img src="images/portfolio_icon/work_semosa.png" class="img-responsive"></a>'+
+					'</div>'+
+					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
+					'<a href="work.html?id=15"><img src="images/portfolio_icon/work_variousgis.png" class="img-responsive"></a>'+
+					'</div>'+
+					'<div class="col-lg-4 col-md-4 col-sm-4 gallery">'+
+					'<a href="work.html?id=16"><img src="images/portfolio_icon/work_woo.png" class="img-responsive"></a>'+
 					'</div>'+
 					'</div>'+
 					'</div>';

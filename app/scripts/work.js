@@ -7,20 +7,22 @@ DG.Work = {
 	base: null,
 	WORK_ID: 0,
 	factory: null,
-	ID_SOSTRE: 1,
-	ID_AIS_ASTERIX: 2,
-	ID_AVT: 3,
-	ID_BAAS: 4,
-	ID_BICICAS: 5,
-	ID_DE_CASA_AL_COLE: 6,
-	ID_GIS3D: 7,
-	ID_GVSIGMINI: 8,
-	ID_IRENA: 9,
-	ID_MONEYJOURNEY: 10,
-	ID_SEACARE: 11,
-	ID_SEMOSA: 12,
-	ID_GIS_VARIOUS: 13,
-	ID_WOO: 14,
+	ID_PAPYRUS: 1,
+	ID_VIPOR: 2,
+	ID_SOSTRE: 3,
+	ID_AIS_ASTERIX: 4,
+	ID_AVT: 5,
+	ID_BAAS: 6,
+	ID_BICICAS: 7,
+	ID_DE_CASA_AL_COLE: 8,
+	ID_GIS3D: 9,
+	ID_GVSIGMINI: 10,
+	ID_IRENA: 11,
+	ID_MONEYJOURNEY: 12,
+	ID_SEACARE: 13,
+	ID_SEMOSA: 14,
+	ID_GIS_VARIOUS: 15,
+	ID_WOO: 16,
 
 	initialize: function(base){
 
@@ -68,6 +70,9 @@ DG.Work = {
 		    case this.ID_MONEYJOURNEY:
 		        id = this.ID_MONEYJOURNEY;
 		        break;
+		    case this.ID_PAPYRUS:
+		        id = this.ID_PAPYRUS;
+		        break;
 		    case this.ID_SEACARE:
 		        id = this.ID_SEACARE;
 		        break;
@@ -76,6 +81,9 @@ DG.Work = {
 		        break;
 		    case this.ID_SOSTRE:
 		        id = this.ID_SOSTRE;
+		        break;
+		    case this.ID_VIPOR:
+		        id = this.ID_VIPOR;
 		        break;
 		    case this.ID_WOO:
 		        id = this.ID_WOO;
@@ -131,6 +139,10 @@ DG.Work = {
 		        this.factory = DG.Work.MONEYJOURNEY;
 		        this.factory.initialize(this);
 		        break;
+		    case this.ID_PAPYRUS:
+		        this.factory = DG.Work.PAPYRUS;
+		        this.factory.initialize(this);
+		        break;
 		    case this.ID_SEACARE:
 		        this.factory = DG.Work.SEACARE;
 		        this.factory.initialize(this);
@@ -141,6 +153,10 @@ DG.Work = {
 		        break;
 		    case this.ID_SOSTRE:
 		        this.factory = DG.Work.SOSTRE;
+		        this.factory.initialize(this);
+		        break;
+	        case this.ID_VIPOR:
+		        this.factory = DG.Work.VIPOR;
 		        this.factory.initialize(this);
 		        break;
 		    case this.ID_WOO:
