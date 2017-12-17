@@ -61,7 +61,7 @@ DG.Base = {
 					'<p>me<span class="text-highlighted">[at]</span>danielgaston<span class="text-highlighted">[dot]</span>com</p>'+
 					'</div>'+
 					'<div class="col-lg-4">'+
-					'<p><span style="color:gray">© 2015 Daniel Gastón</span></p>'+
+					'<p><span style="color:gray">© 2018 Daniel Gastón</span></p>'+
 					'</div>'+
 					'</div>'+
 					'</div>'+
