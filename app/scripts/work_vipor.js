@@ -16,7 +16,7 @@ DG.Work.VIPOR = {
 					'<div class="row">'+
 					'<div class="col-lg-6 col-lg-offset-3">'+
 					'<h1>VIPOR</h1>'+
-					'<h4>CRM Cross Application</h4>'+
+					'<h4>Customer Relationship Management</h4>'+
 					'<h4>ROLE: TEAM LEAD DEVELOPER</h4>'+
 					'</div>'+
 					'</div>'+
@@ -60,17 +60,17 @@ DG.Work.VIPOR = {
 					'This is Vipor.'+
 					'</p>'+
 					'<p align="justify">'+
-					'The project&#39;s main purpose is to research into accurate buildings&#39;s energy demand models, relying on modeling technologies, building design and a 3D analysis of the buildings&#39;s geolocation on the ground. It is possible thus to have an energy consumption estimation for each particular building and conditions, minimizing from the design stage in a passive way the amount of greenhouse gases the buildingsd will produce. Additionally it is also performed a 3D geospatial analysis to obtain the corresponding landscape impact footprint.'+
+					'TO BE WRITTEN'+
 					'</p>'+
 					'<br>'+
 					'<p align="justify">'+
-					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> 3D Geospatial Web Application:</span> Renders a 3D Web globe along with the buildings extracted, processed and extruded of the Valencian community cadastre. Additionally architectural FIDE building files are parsed, processed and rendered in order to apply the following calculus on them.'+
+					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> TO BE WRITTEN:</span> Description.'+
 					'</p>'+
 					'<p align="justify">'+
-					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> Building Visibility Web Service:</span> Calculates "how much" a bulding is seen from a given set of location taking into account the possible overlapping of both the terrain and surrounding buildings.'+
+					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> TO BE WRITTEN:</span>  Description.'+
 					'</p>'+
 					'<p align="justify">'+
-					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> Building Solar Incidence Web Service:</span> Calculates the solar incidence in the geometry of a given building, taking into account the possible overlapping of both the terrain and surrounding buildings, for a given simulation period and ephemerides.'+
+					'<span class="glyphicon glyphicon-ok" aria-hidden="true"></span><span class="text-highlighted"> TO BE WRITTEN:</span>  Description.'+
 					'</p>'+
 					'</div>'+
 					'</div>';
@@ -87,77 +87,274 @@ DG.Work.VIPOR = {
 					'<div class="col-lg-10 col-lg-offset-1">'+
 					'<img class="centered platform" width="60px" src="images/portfolio_misc/gallery.png">'+
 					'<h4 class="text-highlighted">GALLERY</h4>'+
-					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_sostre_1.png">'+
+					'<img class="img-responsive img-thumbnail" src="images/portfolio_content/work_vipor_1.png">'+
 					'<br>'+
 					''+
 					'<div id="gallery-title-1" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Web Application</h4>'+
+					'<h4 style="color: white">TO BE WRITTEN 1</h4>'+
 					'</div>'+
 					'</div>'+
 					'<div id="gallery-title-2" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Building Visibility Processing</h4>'+
+					'<h4 style="color: white">TO BE WRITTEN 2</h4>'+
 					'</div>'+
 					'</div>'+
 					'<div id="gallery-title-3" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Advanced Solar Incidence Processing</h4>'+
+					'<h4 style="color: white">TO BE WRITTEN 3</h4>'+
 					'</div>'+
 					'</div>'+
 					'<div id="gallery-title-4" style="display:none">'+
 					'<div class="custom-html">'+
-					'<h4 style="color: white">Cadaster Geo-Data</h4>'+
+					'<h4 style="color: white">TO BE WRITTEN 4</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-5" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 5</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-6" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 6</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-7" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 7</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-8" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 8</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-9" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 9</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-10" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 10</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-11" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 11</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-12" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 12</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-13" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 13/h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-14" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 14</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-15" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 15</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-16" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 16</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-17" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 17</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-18" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 18</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-19" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 19</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-20" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 20</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-21" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 21</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-22" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 22</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-23" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 23</h4>'+
+					'</div>'+
+					'</div>'+
+					'<div id="gallery-title-24" style="display:none">'+
+					'<div class="custom-html">'+
+					'<h4 style="color: white">TO BE WRITTEN 24</h4>'+
+					'</div>'+
 					'</div>'+
 					'</div>'+
 					''+
 					'<ul id="light-gallery" class="gallery centered">'+
-					'<li data-src="images/portfolio_content/work_sostre_1.png"'+
+					'<li data-src="images/portfolio_content/work_vipor_1.png"'+
 					'data-sub-html="#gallery-title-1">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_1_thumb.png" />'+
+					'<img src="images/portfolio_content/work_vipor_1_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_2.png"'+
-					'data-sub-html="#gallery-title-1">'+
-					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_2_thumb.png" />'+
-					'</a>'+
-					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_3.png"'+
-					'data-sub-html="#gallery-title-1">'+
-					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_3_thumb.png" />'+
-					'</a>'+
-					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_4.png"'+
-					'data-sub-html="#gallery-title-1">'+
-					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_4_thumb.png" />'+
-					'</a>'+
-					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_5.jpg"'+
+					'<li data-src="images/portfolio_content/work_vipor_2.png"'+
 					'data-sub-html="#gallery-title-2">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_5_thumb.jpg" />'+
+					'<img src="images/portfolio_content/work_vipor_2_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_6.png"'+
-					'data-sub-html="#gallery-title-2">'+
-					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_6_thumb.png" />'+
-					'</a>'+
-					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_7.png"'+
+					'<li data-src="images/portfolio_content/work_vipor_3.png"'+
 					'data-sub-html="#gallery-title-3">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_7_thumb.png" />'+
+					'<img src="images/portfolio_content/work_vipor_3_thumb.png" />'+
 					'</a>'+
 					'</li>'+
-					'<li data-src="images/portfolio_content/work_sostre_8.png"'+
+					'<li data-src="images/portfolio_content/work_vipor_4.png"'+
 					'data-sub-html="#gallery-title-4">'+
 					'<a href="#">'+
-					'<img src="images/portfolio_content/work_sostre_8_thumb.png" />'+
+					'<img src="images/portfolio_content/work_vipor_4_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_5.png"'+
+					'data-sub-html="#gallery-title-5">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_5_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_6.png"'+
+					'data-sub-html="#gallery-title-6">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_6_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_7.png"'+
+					'data-sub-html="#gallery-title-7">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_7_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_8.png"'+
+					'data-sub-html="#gallery-title-8">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_8_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_9.png"'+
+					'data-sub-html="#gallery-title-9">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_9_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_10.png"'+
+					'data-sub-html="#gallery-title-10">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_10_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_11.png"'+
+					'data-sub-html="#gallery-title-11">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_11_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_12.png"'+
+					'data-sub-html="#gallery-title-12">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_12_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_13.png"'+
+					'data-sub-html="#gallery-title-13">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_13_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_14.png"'+
+					'data-sub-html="#gallery-title-14">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_14_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_15.png"'+
+					'data-sub-html="#gallery-title-15">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_15_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_16.png"'+
+					'data-sub-html="#gallery-title-16">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_16_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_17.png"'+
+					'data-sub-html="#gallery-title-17">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_17_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_18.png"'+
+					'data-sub-html="#gallery-title-18">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_18_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_19.png"'+
+					'data-sub-html="#gallery-title-19">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_19_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_20.png"'+
+					'data-sub-html="#gallery-title-20">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_20_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_21.png"'+
+					'data-sub-html="#gallery-title-21">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_21_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_22.png"'+
+					'data-sub-html="#gallery-title-22">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_22_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_23.png"'+
+					'data-sub-html="#gallery-title-23">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_23_thumb.png" />'+
+					'</a>'+
+					'</li>'+
+					'<li data-src="images/portfolio_content/work_vipor_24.png"'+
+					'data-sub-html="#gallery-title-24">'+
+					'<a href="#">'+
+					'<img src="images/portfolio_content/work_vipor_24_thumb.png" />'+
 					'</a>'+
 					'</li>'+
 					'</ul>'+
@@ -171,24 +368,6 @@ DG.Work.VIPOR = {
 	initContentExtra: function(){
 		
 		$('#dg_contentextra').empty();
-
-		var html = 	'<div class="row centered mb">'+
-					'<div class="col-lg-6 col-lg-offset-3">'+
-					'<img class="centered platform" width="60px" src="images/portfolio_misc/slideshare.png">'+
-					'<h4 class="text-highlighted">SLIDES</h4>'+
-					'<iframe src="//www.slideshare.net/slideshow/embed_code/key/AShj8hsTSp61Y9" width="800" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen Without related content> </iframe>'+
-					'</div>'+
-					'</div>'+
-					'<div class="row centered">'+
-					'<div class="col-lg-6 col-lg-offset-3">'+
-					'<img class="centered platform" width="60px" src="images/portfolio_misc/github.png">'+
-					'<h4 class="text-highlighted">CODE REPOSITORY</h4>'+
-					'<a target="_blank" href="https://github.com/RealFlow/godzi-webgl/tree/buildings">github.com/RealFlow/godzi-webgl/tree/buildings</a>'+
-					'</div>'+
-					'</div>';
-
-  		$('#dg_contentextra').append(html);
-
 	}
 
 };
